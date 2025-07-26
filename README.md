@@ -1,5 +1,5 @@
 # Atalho
-Um simples script que cria atalhos para sites no navegador, aumentando a produtividade.
+Um simples script que cria atalhos para sites no navegador, aumentando a produtividade, ao apertar shift e o número que você escolheu ele abrira a guia que esta no atalho.
 
 # COMO USAR
 
