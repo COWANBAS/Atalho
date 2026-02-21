@@ -5,7 +5,7 @@ Um simples script que cria atalhos para sites no navegador, aumentando a produti
 
 * Adicione o url do site que deseja entre as aspas, ao clicar shift mais o numero que esta na frente do "DIGIT" ele abrira o url desejado.
 
-![image](https://github.com/user-attachments/assets/b8ca4e28-7625-4a18-9232-c6a3b1b8ece9)
+<img width="165" height="163" alt="image" src="https://github.com/user-attachments/assets/d5ef525e-4d43-4192-9f77-84407042f908" />
 
 * Exemplo com a pagina do google.
 
