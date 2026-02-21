@@ -9,4 +9,4 @@ Um simples script que cria atalhos para sites no navegador, aumentando a produti
 
 * Exemplo com a pagina do google.
 
-![image](https://github.com/user-attachments/assets/cfad96f1-e7d2-4b69-9c7e-c3189466764b)
+<img width="343" height="59" alt="image" src="https://github.com/user-attachments/assets/901a32a2-5a06-41b6-b966-009e6732d74c" />
