@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Atalhos
 // @description   Atalhos para sites
-// @namespace     CowanLHOS
+// @namespace     Atalhos
 // @license       GPL-3.0
 // @version       1.0
 // @author        Cowanbas
@@ -25,4 +25,5 @@
         }
     });
 })();
+
 
